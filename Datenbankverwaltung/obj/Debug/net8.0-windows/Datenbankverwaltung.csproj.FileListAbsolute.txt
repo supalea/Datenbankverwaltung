@@ -1,0 +1,16 @@
+C:\Users\Pebbles\Desktop\GitHub\Datenbankverwaltung\Datenbankverwaltung\bin\Debug\net8.0-windows\Datenbankverwaltung.exe
+C:\Users\Pebbles\Desktop\GitHub\Datenbankverwaltung\Datenbankverwaltung\bin\Debug\net8.0-windows\Datenbankverwaltung.deps.json
+C:\Users\Pebbles\Desktop\GitHub\Datenbankverwaltung\Datenbankverwaltung\bin\Debug\net8.0-windows\Datenbankverwaltung.runtimeconfig.json
+C:\Users\Pebbles\Desktop\GitHub\Datenbankverwaltung\Datenbankverwaltung\bin\Debug\net8.0-windows\Datenbankverwaltung.dll
+C:\Users\Pebbles\Desktop\GitHub\Datenbankverwaltung\Datenbankverwaltung\bin\Debug\net8.0-windows\Datenbankverwaltung.pdb
+C:\Users\Pebbles\Desktop\GitHub\Datenbankverwaltung\Datenbankverwaltung\obj\Debug\net8.0-windows\Datenbankverwaltung.Form1.resources
+C:\Users\Pebbles\Desktop\GitHub\Datenbankverwaltung\Datenbankverwaltung\obj\Debug\net8.0-windows\Datenbankverwaltung.csproj.GenerateResource.cache
+C:\Users\Pebbles\Desktop\GitHub\Datenbankverwaltung\Datenbankverwaltung\obj\Debug\net8.0-windows\Datenbankverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pebbles\Desktop\GitHub\Datenbankverwaltung\Datenbankverwaltung\obj\Debug\net8.0-windows\Datenbankverwaltung.AssemblyInfoInputs.cache
+C:\Users\Pebbles\Desktop\GitHub\Datenbankverwaltung\Datenbankverwaltung\obj\Debug\net8.0-windows\Datenbankverwaltung.AssemblyInfo.cs
+C:\Users\Pebbles\Desktop\GitHub\Datenbankverwaltung\Datenbankverwaltung\obj\Debug\net8.0-windows\Datenbankverwaltung.csproj.CoreCompileInputs.cache
+C:\Users\Pebbles\Desktop\GitHub\Datenbankverwaltung\Datenbankverwaltung\obj\Debug\net8.0-windows\Datenbankverwaltung.dll
+C:\Users\Pebbles\Desktop\GitHub\Datenbankverwaltung\Datenbankverwaltung\obj\Debug\net8.0-windows\refint\Datenbankverwaltung.dll
+C:\Users\Pebbles\Desktop\GitHub\Datenbankverwaltung\Datenbankverwaltung\obj\Debug\net8.0-windows\Datenbankverwaltung.pdb
+C:\Users\Pebbles\Desktop\GitHub\Datenbankverwaltung\Datenbankverwaltung\obj\Debug\net8.0-windows\Datenbankverwaltung.genruntimeconfig.cache
+C:\Users\Pebbles\Desktop\GitHub\Datenbankverwaltung\Datenbankverwaltung\obj\Debug\net8.0-windows\ref\Datenbankverwaltung.dll
